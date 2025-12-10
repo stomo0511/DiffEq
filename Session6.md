@@ -49,3 +49,16 @@ $$
 $$
 （p.44 の証明参照）
 公式 (2) が使えない時、公式 (3) を使う。
+
+### p.44 公式(4)
+公式 (3) で $f(D) = D-\alpha$ とすると以下を得る。
+$$
+ \frac{1}{D-\alpha} F(x) = e^{\alpha x} \int e^{- \alpha x} F(x) dx \tag{4}
+$$
+
+### p.46 公式(6)
+$1 / f(D) [k e^{i \alpha x}]= \xi (x) + i \eta (x)$ ならば、
+$$
+ \frac{1}{f(D)} [k \cos \alpha a] = \xi(x) ,\;\;
+ \frac{1}{f(D)} [k \sin \alpha a] = \eta(x)  \tag{6}
+$$
